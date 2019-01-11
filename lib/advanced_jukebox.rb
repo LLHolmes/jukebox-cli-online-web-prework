@@ -3,11 +3,11 @@
 #with the correct path to this directory on your computer
 
 # my_songs = {
-# "Go Go GO" => 'Users/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/01.mp3',
+# "Go Go GO" => '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/01.mp3',
 # "LiberTeens" => '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/02.mp3',
 # "Hamburg" =>  '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/03.mp3',
 # "Guiding Light" => '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/04.mp3',
-# "Wolf" => '/Users/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/05.mp3',
+# "Wolf" => '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/05.mp3',
 # "Blue" => '/home/rational-parameter-4800/jukebox-cli/audio/Emerald-Park/06.mp3',
 # "Graduation Failed" => '/home/rational-parameter-4800le/jukebox-cli/audio/Emerald-Park/07.mp3'
 # }
